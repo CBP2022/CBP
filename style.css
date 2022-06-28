@@ -23,7 +23,7 @@ body{
 }
 
 .main-container{
-    min-height:100vh;
+    min-height:70vh;
    
 }
 
@@ -62,4 +62,8 @@ body{
     margin-left: 1rem;
     border: 2px solid #f5ba09;
     border-radius: 0.5rem;
+}
+
+#aboutme{
+    font-size: x-large;
 }
